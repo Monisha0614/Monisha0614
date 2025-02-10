@@ -27,6 +27,11 @@ Contributions are welcome! If you'd like to enhance the system:
 - Fork the repository.
 - Make necessary improvements.
 - Submit a pull request.
+- 
+## Future Enhancements
+- **Chat Functionality**: Plan to integrate real-time chat for collaboration using WebSockets.
+- **Code Versioning**: Implement version control to track code changes.
+- **User Roles**: Add different access levels for better team collaboration.
 
 ## License
 This project is licensed under the MIT License.
